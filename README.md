@@ -12,5 +12,7 @@ The test consists of ten questions, each from different movies. The types of ans
 
 <b>Usage</b>
 
+You can start the quiz with the start button. Each question directs you automatically to the next and if you don't want to go through all the questions, just click the close button from the upper right corner.
+
 The use of this quiz program is to have a bit of fun and test your knowledge.
 If you don't know the answers to the asked questions, I suggest watching the movies, they're great!
