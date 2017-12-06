@@ -14,11 +14,3 @@ The test consists of ten questions, each from different movies. The types of ans
 
 The use of this quiz program is to have a bit of fun and test your knowledge.
 If you don't know the answers to the asked questions, I suggest watching the movies, they're great!
-
-<b>Screenshots of the interface</b>
-
-Main screen:
-<p align="center">
-  <img src="Jere/scrnsht/scrn1.png" width="350"/>
-  
-</p>
