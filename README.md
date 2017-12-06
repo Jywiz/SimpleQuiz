@@ -17,3 +17,8 @@ If you don't know the answers to the asked questions, I suggest watching the mov
 
 <b>Screenshots of the interface</b>
 
+Main screen:
+<p align="center">
+  <img src="Jere/scrnsht/scrn1.png" width="350"/>
+  
+</p>
